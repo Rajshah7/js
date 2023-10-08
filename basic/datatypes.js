@@ -15,7 +15,7 @@ let isLoggedIn = true;
 let = state;
 
 
-// number => 2 to power
+// number => 2 to 53 power
 // bigint 
 // string => ""
 //boolean => true/false
